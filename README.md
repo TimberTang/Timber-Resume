@@ -8,13 +8,13 @@
 TEL 15683410918
 
 ### 专业技能
-有扎实的C，Objective-c语言基础，掌握swift并熟练运动与项目~
-能使用SQLite、CoreData实现本地化储存
-掌握GCD、NSOpetation、NSThread 多线程编程
-掌握运行时机制和消息发送机制.拥有良好的封装和面向对象开发思想 
-熟练掌握XMPP、 HTTP、TCP/IP 等网络协议， 熟悉json，xml，javascript交互
-有良好的内存管理习惯 ~.可独立开发，不依赖三方类，具有良好的编码规范，全代码或Auto layout 布局
-对编译和连接有一定的了解， 对 Clang 和 llvm 有一定的了解等。
+1. 有扎实的C，Objective-c语言基础，掌握swift并熟练运动与项目~
+2. 能使用SQLite、CoreData实现本地化储存
+3. 掌握GCD、NSOpetation、NSThread 多线程编程
+4. 掌握运行时机制和消息发送机制.拥有良好的封装和面向对象开发思想 
+5. 熟练掌握XMPP、 HTTP、TCP/IP 等网络协议， 熟悉json，xml，javascript交互
+6. 有良好的内存管理习惯 ~.可独立开发，不依赖三方类，具有良好的编码规范，全代码或Auto layout 布局
+7. 对编译和连接有一定的了解， 对 Clang 和 llvm 有一定的了解等。
 
 
 ### 工作经验
