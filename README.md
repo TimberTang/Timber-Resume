@@ -18,7 +18,7 @@
 1. 有扎实的C，Objective-C语言基础，掌握Swift并熟练运动于项目中
 2. 能使用SQLite、CoreData实现本地化储存
 3. 掌握GCD、NSOpetation、NSThread 多线程编程
-4. 掌握运行时机制和消息发送机制、了解消息转发机制    
+4. 掌握运行时机制和消息发送机制、了解消息转发机制、熟悉Category等知识  
 5. 掌握XMPP、 HTTP、TCP/IP 等网络协议， 熟悉json，xml，javascript交互
 6. 有良好的内存管理习惯 ~.可独立开发，不依赖三方类，具有良好的编码规范，全代码或Auto layout 布局
 7. 对编译和链接有一定的了解， 对 Clang 和 llvm 有一定的了解等。
@@ -61,7 +61,7 @@ iOS开发工程师
 开发百闻看房 APP、开发微图 APP。  
 主要搭建 UI 画面等。 学习使用 iOS 动画来增添 APP的交互使用等。  
 学习Block 的内存管理以及基本实现等。  
-学习 AutoRealsePool 等内存管理功能。  
+学习 AutoRealsePool 等内存管理知识。  
 
 ### 自我描述
 1. 责任心强，良好的沟通能力
