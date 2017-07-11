@@ -1,5 +1,5 @@
-
 ### 求职意向
+
 期望地区： 重庆、成都、上海、深圳  
 岗位名称：iOS开发工程师  
 期望薪资：10k+/月  
@@ -17,12 +17,13 @@
 ### 专业技能
 1. 有扎实的C，Objective-C语言基础，掌握Swift并熟练运动于项目中
 2. 能使用SQLite、CoreData实现本地化储存
-3. 掌握GCD、NSOpetation、NSThread 多线程编程
+3. 掌握GCD、NSOpetation、NSThread、pthread多线程编程
 4. 掌握运行时机制和消息发送机制、了解消息转发机制、熟悉Category等知识  
 5. 掌握XMPP、 HTTP、TCP/IP 等网络协议， 熟悉json，xml，javascript交互
 6. 有良好的内存管理习惯 ~.可独立开发，不依赖三方类，具有良好的编码规范，全代码或Auto layout 布局
 7. 对编译和链接有一定的了解， 对 Clang 和 llvm 有一定的了解等。
-8. 掌握GIT常用命令，了解GIT的数据结构。
+8. 了解 iOS 同步机制等。了解iOS 常见锁。
+9. 掌握GIT常用命令，了解GIT的数据结构。
 
 
 ### 工作经验
