@@ -22,6 +22,7 @@
 5. 掌握XMPP、 HTTP、TCP/IP 等网络协议， 熟悉json，xml，javascript交互
 6. 有良好的内存管理习惯 ~.可独立开发，不依赖三方类，具有良好的编码规范，全代码或Auto layout 布局
 7. 对编译和链接有一定的了解， 对 Clang 和 llvm 有一定的了解等。
+8. 掌握GIT常用命令，了解GIT的数据结构。
 
 
 ### 工作经验
