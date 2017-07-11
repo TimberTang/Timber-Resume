@@ -15,11 +15,11 @@
 重庆理工大学、软件工程学院、信息与计算科学 
 
 ### 专业技能
-1. 有扎实的C，Objective-c语言基础，掌握swift并熟练运动于项目中~
+1. 有扎实的C，Objective-C语言基础，掌握Swift并熟练运动于项目中
 2. 能使用SQLite、CoreData实现本地化储存
 3. 掌握GCD、NSOpetation、NSThread 多线程编程
 4. 掌握运行时机制和消息发送机制、了解消息转发机制。拥有良好的封装和面向对象开发思想 
-5. 熟练掌握XMPP、 HTTP、TCP/IP 等网络协议， 熟悉json，xml，javascript交互
+5. 掌握XMPP、 HTTP、TCP/IP 等网络协议， 熟悉json，xml，javascript交互
 6. 有良好的内存管理习惯 ~.可独立开发，不依赖三方类，具有良好的编码规范，全代码或Auto layout 布局
 7. 对编译和链接有一定的了解， 对 Clang 和 llvm 有一定的了解等。
 
@@ -38,9 +38,9 @@ iOS 中高级工程师
 #### 重庆渐臻科技
 iOS开发工程师  
 2016.02 — 2016.09  
-开发路车人教练端、路车人会员端。  
+开发路车人教练端、路车人会员端 。   
 开发长安福特车展iPad APP。  
-深入学习并使用了 GCD ， NSThread 等多线程知识。  
+深入学习并使用了 GCD ， NSThread， NSOperation 等多线程知识。  
 开始学习 Swift 语言，并尝试着写点开源项目为社区做贡献等。
 
 #### 重庆日日月月股份公司
@@ -50,7 +50,7 @@ iOS开发工程师
 使用 mjExtension 来完成 model 组装。  
 边完成业务边学习和掌握 runtime、runloop 等底层知识等。  
 路车人教练版开发。 利用 rumtime 知识来完成 model 的组装。  
-利用 AOP 切面只是来统计 ViewController 的展现次数等~
+利用 AOP 切面只是来统计 ViewController 的展现次数等。
 
 
 #### 重庆软媒科技有限公司
