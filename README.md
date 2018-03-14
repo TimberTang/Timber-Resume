@@ -22,7 +22,7 @@
 
 # 专业技能
 
-- 有扎实的C，Objective-C语言基础，掌握Swift并熟练运动于项目中
+- 有扎实的C，Objective-C语言基础，掌握Swift并熟练运用于项目中
 - 能使用SQLite、CoreData实现本地化储存
 - 掌握GCD、NSOpetation、NSThread、pthread多线程编程
 - 掌握运行时机制和消息发送机制、了解消息转发机制、熟悉Category等知识  
