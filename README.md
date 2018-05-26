@@ -1,6 +1,6 @@
 # 个人简介
 
-- 唐明，男，1992 年生， 2015年毕业于重庆理工大学 
+- 唐明，男，1992 年， 2015年毕业于重庆理工大学 
 
 - 手机号码：15683410918
 
@@ -8,23 +8,26 @@
 
 - 技术博客：http://timbertang.github.io
 
-- Github：http://github.com/timbertang
-
-- 求职意向：iOS 中高级工程师
-
   ​
+
 
 # 专业技能
 
-- 有扎实的c，Objective-C语言基础，掌握Swift并熟练运用于项目中
-- 能使用SQLite、CoreData实现本地化储存
-- 掌握GCD、NSOpetation、NSThread、pthread多线程编程
-- 掌握运行时机制和消息发送机制、了解消息转发机制、熟悉Category等知识  
-- 掌握 HTTP、TCP/IP 等网络协议， 熟悉JSON、XML、JavaScript交互
-- 有良好的内存管理习惯 .可独立开发，具有良好的编码规范，全代码或Auto layout 布局
-- 对编译和链接有一定的了解， 对 Clang 和 llvm 有一定的了解
-- 了解 iOS 同步机制等。了解iOS 常见锁
-- 掌握git常用命令，了解git的数据结构
+- 熟练Objective-C语言及运行时机制
+
+- 掌握GCD、NSOpetation、NSThread 等多线程编程
+
+- 熟练Swift并运用于项目中 
+
+- 掌握HTTP、HTTPS、TCP/IP等网络协议
+
+- 了解数据库与本地化存储 、操作系统 、算法与数据结构与常见锁
+
+- 了解音视频开发、了解音视频编解码等相关知识、了解FFMPEG、GPUImage
+
+- 了解Vue、小程序等前端开发
+
+
 
 
 
