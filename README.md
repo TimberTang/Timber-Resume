@@ -14,18 +14,13 @@
 # 专业技能
 
 - 熟练Objective-C语言及运行时机制
-
 - 掌握GCD、NSOpetation、NSThread 等多线程编程
-
 - 熟练Swift并运用于项目中 
-
 - 掌握HTTP、HTTPS、TCP/IP等网络协议
-
 - 了解数据库与本地化存储 、操作系统 、算法与数据结构与常见锁
-
 - 了解音视频开发、了解音视频编解码等相关知识、了解FFMPEG、GPUImage
-
 - 了解Vue、小程序等前端开发
+- 了解iOS逆向知识
 
 
 
@@ -43,7 +38,7 @@ iOS 中高级工程师
 - 彩票项目是一个完全 Swift 开发的项目。熟练掌握并运用了 Swift于项目中。  
 - 学习掌握 RSA 等非对称加密算法等。掌握HTTPS 的建立连接等。掌握TCP/IP等协议
 - 国通石油商户端。完全 Swift 语言开发，功能类似国通石油会员端  
-- 现在开始学习 RxSwift。争取在下个项目中可以使用到
+- 开始学习 RxSwift 等面向函数编程思想。
 
 #### 重庆日日月月股份公司
 iOS开发工程师
@@ -52,7 +47,7 @@ iOS开发工程师
 - 乐尚帮商家、乐尚帮会员 iPhone APP
 - 使用 MJExtension 来完成 model 组装开发
 - 边完成业务边学习和掌握 runtime、runloop 等底层知识等   
-- 熟悉了并使用了 GCD ， NSThread， NSOperation 等多线程知识  
+- 熟悉并使用了 GCD ， NSThread， NSOperation 等多线程知识  
 - 学习 Swift 语言，并尝试着写点开源项目为社区做贡献等
 
 
@@ -64,7 +59,7 @@ iOS实习工程师
 - 开发百闻看房 APP、开发微图 APP  
 - 主要搭建 UI 画面等。 学习使用 iOS 动画来增添 APP的交互使用等 
 - 熟悉了Block 的内存管理以及基本实现等
-- 了解了 AutoRealsePool 等内存管理知识   
+- 学习 AutoRealsePool 等内存管理知识   
 
 
 
